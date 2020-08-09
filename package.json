@@ -2,7 +2,7 @@
   "name": "simple-tooltip",
   "version": "0.1.0",
   "private": true,
-  "homepage":"https://porushyadav.github.io/Tooltip-React/",
+  "homepage":"https://porushyadav.github.io/Tooltip1-React/",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
