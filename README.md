@@ -1,3 +1,7 @@
+### This project is an UI of an Tooltip.
+
+### This project was build using React, Html and CSS.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
